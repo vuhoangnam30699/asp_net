@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ayG7G+sBn8YyCAkZfxRusbPspFsWVe6akXkFHfvG8duGrOk4yJQPCyg7TswvRGC+ev+EA9UWaZFlwH82IYVWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\ASP .NET\\AzureDemo\\AzureDemo\\AzureDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.compilers.toolset\\4.9.2\\microsoft.net.compilers.toolset.4.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

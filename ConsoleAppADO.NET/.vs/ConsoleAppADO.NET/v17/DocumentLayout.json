@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\ASP .NET\\ConsoleAppADO.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A13FF7B-193E-4C65-9954-FFE1D1C51E55}|ConsoleAppADO.NET\\ConsoleAppADO.NET.csproj|C:\\Users\\Admin\\ASP .NET\\ConsoleAppADO.NET\\consoleappado.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A13FF7B-193E-4C65-9954-FFE1D1C51E55}|ConsoleAppADO.NET\\ConsoleAppADO.NET.csproj|solutionrelative:consoleappado.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A13FF7B-193E-4C65-9954-FFE1D1C51E55}|ConsoleAppADO.NET\\ConsoleAppADO.NET.csproj|c:\\users\\admin\\asp .net\\consoleappado.net\\consoleappado.net\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A13FF7B-193E-4C65-9954-FFE1D1C51E55}|ConsoleAppADO.NET\\ConsoleAppADO.NET.csproj|solutionrelative:consoleappado.net\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A13FF7B-193E-4C65-9954-FFE1D1C51E55}|ConsoleAppADO.NET\\ConsoleAppADO.NET.csproj|c:\\users\\admin\\asp .net\\consoleappado.net\\consoleappado.net\\controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A13FF7B-193E-4C65-9954-FFE1D1C51E55}|ConsoleAppADO.NET\\ConsoleAppADO.NET.csproj|solutionrelative:consoleappado.net\\controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\ConsoleAppADO.NET\\ConsoleAppADO.NET\\Controller\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ConsoleAppADO.NET\\Controller\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\ConsoleAppADO.NET\\ConsoleAppADO.NET\\Controller\\EmployeeController.cs",
+              "RelativeToolTip": "ConsoleAppADO.NET\\Controller\\EmployeeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAE4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:07:05.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\ConsoleAppADO.NET\\ConsoleAppADO.NET\\model\\Employee.cs",
+              "RelativeDocumentMoniker": "ConsoleAppADO.NET\\model\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\ConsoleAppADO.NET\\ConsoleAppADO.NET\\model\\Employee.cs",
+              "RelativeToolTip": "ConsoleAppADO.NET\\model\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T11:54:47.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\ConsoleAppADO.NET\\ConsoleAppADO.NET\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppADO.NET\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\ConsoleAppADO.NET\\ConsoleAppADO.NET\\Program.cs",
+              "RelativeToolTip": "ConsoleAppADO.NET\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T11:08:34.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

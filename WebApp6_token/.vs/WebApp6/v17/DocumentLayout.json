@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|c:\\users\\admin\\asp .net\\webapp6_token\\models\\t2301esem3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|solutionrelative:models\\t2301esem3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|c:\\users\\admin\\asp .net\\webapp6_token\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|c:\\users\\admin\\asp .net\\webapp6_token\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|c:\\users\\admin\\asp .net\\webapp6_token\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|c:\\users\\admin\\asp .net\\webapp6_token\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|c:\\users\\admin\\asp .net\\webapp6_token\\utils\\configurationmanagerapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|solutionrelative:utils\\configurationmanagerapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|c:\\users\\admin\\asp .net\\webapp6_token\\models\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|solutionrelative:models\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|c:\\users\\admin\\asp .net\\webapp6_token\\models\\dtos\\jwttokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|solutionrelative:models\\dtos\\jwttokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|c:\\users\\admin\\asp .net\\webapp6_token\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|c:\\users\\admin\\asp .net\\webapp6_token\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|solutionrelative:models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|c:\\users\\admin\\asp .net\\webapp6_token\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|c:\\users\\admin\\asp .net\\webapp6_token\\controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|solutionrelative:controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|c:\\users\\admin\\asp .net\\webapp6_token\\models\\dtos\\studentgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|solutionrelative:models\\dtos\\studentgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|c:\\users\\admin\\asp .net\\webapp6_token\\models\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|solutionrelative:models\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|c:\\users\\admin\\asp .net\\webapp6_token\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326014DA-8B76-496E-B32C-A5A3FE1719E8}|WebApp6.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:45:57.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T16:36:34.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigurationManagerAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Utils\\ConfigurationManagerAPI.cs",
+              "RelativeDocumentMoniker": "Utils\\ConfigurationManagerAPI.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Utils\\ConfigurationManagerAPI.cs",
+              "RelativeToolTip": "Utils\\ConfigurationManagerAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T15:32:39.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T15:32:47.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:44:02.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JWTTokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\DTOs\\JWTTokenResponse.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\JWTTokenResponse.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\DTOs\\JWTTokenResponse.cs",
+              "RelativeToolTip": "Models\\DTOs\\JWTTokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T15:30:07.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\DTOs\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\Login.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\DTOs\\Login.cs",
+              "RelativeToolTip": "Models\\DTOs\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T15:51:44.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "T2301eSem3Context.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\T2301eSem3Context.cs",
+              "RelativeDocumentMoniker": "Models\\T2301eSem3Context.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\T2301eSem3Context.cs",
+              "RelativeToolTip": "Models\\T2301eSem3Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:07:22.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:08:42.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\Grade.cs",
+              "RelativeToolTip": "Models\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:08:02.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:15:39.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\StudentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:03:44.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GradesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Controllers\\GradesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GradesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Controllers\\GradesController.cs",
+              "RelativeToolTip": "Controllers\\GradesController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:10:04.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentGrade.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\DTOs\\StudentGrade.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\StudentGrade.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\DTOs\\StudentGrade.cs",
+              "RelativeToolTip": "Models\\DTOs\\StudentGrade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:19:04.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebApp6_token\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:04:16.537Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

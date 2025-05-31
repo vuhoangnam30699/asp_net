@@ -1,0 +1,13 @@
+﻿Code First
+
+1. Create Model
+2. Create DB Context
+3. add connection string and paste into DB Context
+4. Migrate into DB 
+
+
+3 bước tạo ra DB từ Model
+
+Enable-Migrations
+Add-Migration <NameOfMigration>
+Update-Database

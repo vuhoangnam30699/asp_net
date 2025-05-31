@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H2NEBNfuwSYxximDd/J5jUcKJIAxFPnX9o8cP1wz9rXYXR92FhXJohHd7vRvc95yGIEaQENpj31Wqv49ZyPRpQ==",
+  "success": true,
+  "projectFilePath": "E:\\FAPTECH\\SEM3\\3.NSC\\T2301E\\ConsoleSignature\\ConsoleSignature\\ConsoleSignature.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hoang\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Hoang\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Hoang\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Hoang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|c:\\users\\admin\\asp .net\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|c:\\users\\admin\\asp .net\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|c:\\users\\admin\\asp .net\\webapi\\webapi\\models\\t2301esem3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\t2301esem3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|c:\\users\\admin\\asp .net\\webapi\\webapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|c:\\users\\admin\\asp .net\\webapi\\webapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|c:\\users\\admin\\asp .net\\webapi\\webapi\\models\\dtos\\studentgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\dtos\\studentgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|c:\\users\\admin\\asp .net\\webapi\\webapi\\models\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|c:\\users\\admin\\asp .net\\webapi\\webapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|c:\\users\\admin\\asp .net\\webapi\\webapi\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE320665-CCCC-44DA-AA41-0B6804AE9B03}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T15:10:02.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:41:21.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentGrade.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\Models\\DTOs\\StudentGrade.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DTOs\\StudentGrade.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\Models\\DTOs\\StudentGrade.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DTOs\\StudentGrade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:14:30.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\Models\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\Models\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DTOs\\StudentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T11:51:50.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAJEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T11:43:54.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T11:41:47.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\Models\\Student.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T11:38:07.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\Models\\Grade.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T11:29:07.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "T2301eSem3Context.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\Models\\T2301eSem3Context.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\T2301eSem3Context.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAPI\\WebAPI\\Models\\T2301eSem3Context.cs",
+              "RelativeToolTip": "WebAPI\\Models\\T2301eSem3Context.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T11:25:27.036Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

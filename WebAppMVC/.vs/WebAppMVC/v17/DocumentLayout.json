@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\asp .net\\webappmvc\\codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5AAF9A-E454-48EC-B3C4-C9984049B054}|WebAppMVC\\WebAppMVC.csproj|c:\\users\\admin\\asp .net\\webappmvc\\webappmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD5AAF9A-E454-48EC-B3C4-C9984049B054}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5AAF9A-E454-48EC-B3C4-C9984049B054}|WebAppMVC\\WebAppMVC.csproj|c:\\users\\admin\\asp .net\\webappmvc\\webappmvc\\models\\t2301esem3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5AAF9A-E454-48EC-B3C4-C9984049B054}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\models\\t2301esem3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5AAF9A-E454-48EC-B3C4-C9984049B054}|WebAppMVC\\WebAppMVC.csproj|c:\\users\\admin\\asp .net\\webappmvc\\webappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5AAF9A-E454-48EC-B3C4-C9984049B054}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5AAF9A-E454-48EC-B3C4-C9984049B054}|WebAppMVC\\WebAppMVC.csproj|c:\\users\\admin\\asp .net\\webappmvc\\webappmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5AAF9A-E454-48EC-B3C4-C9984049B054}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\asp .net\\webappmvc\\codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\asp .net\\webappmvc\\codefirst\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\asp .net\\webappmvc\\codefirst\\controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\asp .net\\webappmvc\\codefirst\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5AAF9A-E454-48EC-B3C4-C9984049B054}|WebAppMVC\\WebAppMVC.csproj|c:\\users\\admin\\asp .net\\webappmvc\\webappmvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5AAF9A-E454-48EC-B3C4-C9984049B054}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5AAF9A-E454-48EC-B3C4-C9984049B054}|WebAppMVC\\WebAppMVC.csproj|c:\\users\\admin\\asp .net\\webappmvc\\webappmvc\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5AAF9A-E454-48EC-B3C4-C9984049B054}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\asp .net\\webappmvc\\codefirst\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\asp .net\\webappmvc\\codefirst\\models\\gradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\gradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\asp .net\\webappmvc\\codefirst\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\asp .net\\webappmvc\\codefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\asp .net\\webappmvc\\codefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\asp .net\\webappmvc\\codefirst\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\asp .net\\webappmvc\\codefirst\\models\\class4dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\class4dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\asp .net\\webappmvc\\codefirst\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5AAF9A-E454-48EC-B3C4-C9984049B054}|WebAppMVC\\WebAppMVC.csproj|c:\\users\\admin\\asp .net\\webappmvc\\webappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5AAF9A-E454-48EC-B3C4-C9984049B054}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|c:\\users\\admin\\asp .net\\webappmvc\\codefirst\\migrations\\class4dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65C766F-75CB-4E70-A05C-2C172A509983}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\migrations\\class4dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\WebAppMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\WebAppMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebAppMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:02:11.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Models\\StudentDto.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Models\\StudentDto.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\StudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:59:23.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Models\\Grade.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:44:44.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Models\\Student.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:44:40.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "CodeFirst\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAAB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:43:13.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\appsettings.json",
+              "RelativeToolTip": "CodeFirst\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-20T12:35:20.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Program.cs",
+              "RelativeToolTip": "CodeFirst\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:14:06.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\WebAppMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAppMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\WebAppMVC\\appsettings.json",
+              "RelativeToolTip": "WebAppMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T12:06:34.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "T2301eSem3Context.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\WebAppMVC\\Models\\T2301eSem3Context.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Models\\T2301eSem3Context.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\WebAppMVC\\Models\\T2301eSem3Context.cs",
+              "RelativeToolTip": "WebAppMVC\\Models\\T2301eSem3Context.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:45:01.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\WebAppMVC\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\WebAppMVC\\Program.cs",
+              "RelativeToolTip": "WebAppMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:06:31.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GradeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Models\\GradeDto.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\GradeDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Models\\GradeDto.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\GradeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:02:41.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwCQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T12:06:09.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "CodeFirst\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:13:42.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\WebAppMVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\WebAppMVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebAppMVC\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:34:14.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GradesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Controllers\\GradesController.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Controllers\\GradesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Controllers\\GradesController.cs",
+              "RelativeToolTip": "CodeFirst\\Controllers\\GradesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:37:22.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CodeFirst\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CodeFirst\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T12:06:05.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\WebAppMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\WebAppMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:10:47.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\WebAppMVC\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\WebAppMVC\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "WebAppMVC\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:10:45.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class4DBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Migrations\\Class4DBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Migrations\\Class4DBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Migrations\\Class4DBContextModelSnapshot.cs",
+              "RelativeToolTip": "CodeFirst\\Migrations\\Class4DBContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:35:03.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Models\\Movie.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:45:07.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class4DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Models\\Class4DBContext.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\Class4DBContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMVC\\CodeFirst\\Models\\Class4DBContext.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\Class4DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:15:39.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

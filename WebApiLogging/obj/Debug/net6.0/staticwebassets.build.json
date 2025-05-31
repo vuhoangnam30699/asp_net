@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "djVEu0MzeQmDf0koDAxPjJWFtCJNjgcO84zKDY7IB8o=",
+  "Source": "WebApiLogging",
+  "BasePath": "_content/WebApiLogging",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

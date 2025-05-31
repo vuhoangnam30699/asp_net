@@ -1,0 +1,15 @@
+E:\FAPTECH\SEM3\3.NSC\T2301E\ConsoleSignature\ConsoleSignature\bin\Debug\net6.0\ConsoleSignature.exe
+E:\FAPTECH\SEM3\3.NSC\T2301E\ConsoleSignature\ConsoleSignature\bin\Debug\net6.0\ConsoleSignature.deps.json
+E:\FAPTECH\SEM3\3.NSC\T2301E\ConsoleSignature\ConsoleSignature\bin\Debug\net6.0\ConsoleSignature.runtimeconfig.json
+E:\FAPTECH\SEM3\3.NSC\T2301E\ConsoleSignature\ConsoleSignature\bin\Debug\net6.0\ConsoleSignature.dll
+E:\FAPTECH\SEM3\3.NSC\T2301E\ConsoleSignature\ConsoleSignature\bin\Debug\net6.0\ConsoleSignature.pdb
+E:\FAPTECH\SEM3\3.NSC\T2301E\ConsoleSignature\ConsoleSignature\obj\Debug\net6.0\ConsoleSignature.csproj.AssemblyReference.cache
+E:\FAPTECH\SEM3\3.NSC\T2301E\ConsoleSignature\ConsoleSignature\obj\Debug\net6.0\ConsoleSignature.GeneratedMSBuildEditorConfig.editorconfig
+E:\FAPTECH\SEM3\3.NSC\T2301E\ConsoleSignature\ConsoleSignature\obj\Debug\net6.0\ConsoleSignature.AssemblyInfoInputs.cache
+E:\FAPTECH\SEM3\3.NSC\T2301E\ConsoleSignature\ConsoleSignature\obj\Debug\net6.0\ConsoleSignature.AssemblyInfo.cs
+E:\FAPTECH\SEM3\3.NSC\T2301E\ConsoleSignature\ConsoleSignature\obj\Debug\net6.0\ConsoleSignature.csproj.CoreCompileInputs.cache
+E:\FAPTECH\SEM3\3.NSC\T2301E\ConsoleSignature\ConsoleSignature\obj\Debug\net6.0\ConsoleSignature.dll
+E:\FAPTECH\SEM3\3.NSC\T2301E\ConsoleSignature\ConsoleSignature\obj\Debug\net6.0\refint\ConsoleSignature.dll
+E:\FAPTECH\SEM3\3.NSC\T2301E\ConsoleSignature\ConsoleSignature\obj\Debug\net6.0\ConsoleSignature.pdb
+E:\FAPTECH\SEM3\3.NSC\T2301E\ConsoleSignature\ConsoleSignature\obj\Debug\net6.0\ConsoleSignature.genruntimeconfig.cache
+E:\FAPTECH\SEM3\3.NSC\T2301E\ConsoleSignature\ConsoleSignature\obj\Debug\net6.0\ref\ConsoleSignature.dll

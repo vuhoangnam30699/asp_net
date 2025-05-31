@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\ASP .NET\\GoogleAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA6062A-E60E-4D3D-8CDD-C2AF2BD0EAE9}|GoogleAuth\\GoogleAuth.csproj|c:\\users\\admin\\asp .net\\googleauth\\googleauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA6062A-E60E-4D3D-8CDD-C2AF2BD0EAE9}|GoogleAuth\\GoogleAuth.csproj|solutionrelative:googleauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA6062A-E60E-4D3D-8CDD-C2AF2BD0EAE9}|GoogleAuth\\GoogleAuth.csproj|c:\\users\\admin\\asp .net\\googleauth\\googleauth\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA6062A-E60E-4D3D-8CDD-C2AF2BD0EAE9}|GoogleAuth\\GoogleAuth.csproj|solutionrelative:googleauth\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA6062A-E60E-4D3D-8CDD-C2AF2BD0EAE9}|GoogleAuth\\GoogleAuth.csproj|c:\\users\\admin\\asp .net\\googleauth\\googleauth\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA6062A-E60E-4D3D-8CDD-C2AF2BD0EAE9}|GoogleAuth\\GoogleAuth.csproj|solutionrelative:googleauth\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA6062A-E60E-4D3D-8CDD-C2AF2BD0EAE9}|GoogleAuth\\GoogleAuth.csproj|c:\\users\\admin\\asp .net\\googleauth\\googleauth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA6062A-E60E-4D3D-8CDD-C2AF2BD0EAE9}|GoogleAuth\\GoogleAuth.csproj|solutionrelative:googleauth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA6062A-E60E-4D3D-8CDD-C2AF2BD0EAE9}|GoogleAuth\\GoogleAuth.csproj|c:\\users\\admin\\asp .net\\googleauth\\googleauth\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA6062A-E60E-4D3D-8CDD-C2AF2BD0EAE9}|GoogleAuth\\GoogleAuth.csproj|solutionrelative:googleauth\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA6062A-E60E-4D3D-8CDD-C2AF2BD0EAE9}|GoogleAuth\\GoogleAuth.csproj|c:\\users\\admin\\asp .net\\googleauth\\googleauth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA6062A-E60E-4D3D-8CDD-C2AF2BD0EAE9}|GoogleAuth\\GoogleAuth.csproj|solutionrelative:googleauth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\GoogleAuth\\GoogleAuth\\Program.cs",
+              "RelativeDocumentMoniker": "GoogleAuth\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\GoogleAuth\\GoogleAuth\\Program.cs",
+              "RelativeToolTip": "GoogleAuth\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T11:43:08.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\GoogleAuth\\GoogleAuth\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "GoogleAuth\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\GoogleAuth\\GoogleAuth\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "GoogleAuth\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T11:25:29.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\GoogleAuth\\GoogleAuth\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "GoogleAuth\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\GoogleAuth\\GoogleAuth\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "GoogleAuth\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T11:24:20.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\GoogleAuth\\GoogleAuth\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "GoogleAuth\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\GoogleAuth\\GoogleAuth\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "GoogleAuth\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T11:18:49.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\GoogleAuth\\GoogleAuth\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GoogleAuth\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\GoogleAuth\\GoogleAuth\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GoogleAuth\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T11:18:39.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\GoogleAuth\\GoogleAuth\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GoogleAuth\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\GoogleAuth\\GoogleAuth\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GoogleAuth\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T11:17:47.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

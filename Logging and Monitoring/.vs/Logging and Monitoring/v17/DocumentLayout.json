@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\ASP .NET\\Logging and Monitoring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6076E770-E921-4502-B4A4-E1E15C4DF911}|Logging and Monitoring\\Logging and Monitoring.csproj|c:\\users\\admin\\asp .net\\logging and monitoring\\logging and monitoring\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6076E770-E921-4502-B4A4-E1E15C4DF911}|Logging and Monitoring\\Logging and Monitoring.csproj|solutionrelative:logging and monitoring\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6076E770-E921-4502-B4A4-E1E15C4DF911}|Logging and Monitoring\\Logging and Monitoring.csproj|c:\\users\\admin\\asp .net\\logging and monitoring\\logging and monitoring\\loggings\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6076E770-E921-4502-B4A4-E1E15C4DF911}|Logging and Monitoring\\Logging and Monitoring.csproj|solutionrelative:logging and monitoring\\loggings\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6076E770-E921-4502-B4A4-E1E15C4DF911}|Logging and Monitoring\\Logging and Monitoring.csproj|c:\\users\\admin\\asp .net\\logging and monitoring\\logging and monitoring\\loggings\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6076E770-E921-4502-B4A4-E1E15C4DF911}|Logging and Monitoring\\Logging and Monitoring.csproj|solutionrelative:logging and monitoring\\loggings\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6076E770-E921-4502-B4A4-E1E15C4DF911}|Logging and Monitoring\\Logging and Monitoring.csproj|c:\\users\\admin\\asp .net\\logging and monitoring\\logging and monitoring\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6076E770-E921-4502-B4A4-E1E15C4DF911}|Logging and Monitoring\\Logging and Monitoring.csproj|solutionrelative:logging and monitoring\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6076E770-E921-4502-B4A4-E1E15C4DF911}|Logging and Monitoring\\Logging and Monitoring.csproj|c:\\users\\admin\\asp .net\\logging and monitoring\\logging and monitoring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6076E770-E921-4502-B4A4-E1E15C4DF911}|Logging and Monitoring\\Logging and Monitoring.csproj|solutionrelative:logging and monitoring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6076E770-E921-4502-B4A4-E1E15C4DF911}|Logging and Monitoring\\Logging and Monitoring.csproj|c:\\users\\admin\\asp .net\\logging and monitoring\\logging and monitoring\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6076E770-E921-4502-B4A4-E1E15C4DF911}|Logging and Monitoring\\Logging and Monitoring.csproj|solutionrelative:logging and monitoring\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6076E770-E921-4502-B4A4-E1E15C4DF911}|Logging and Monitoring\\Logging and Monitoring.csproj|c:\\users\\admin\\asp .net\\logging and monitoring\\logging and monitoring\\models\\t2301esem3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6076E770-E921-4502-B4A4-E1E15C4DF911}|Logging and Monitoring\\Logging and Monitoring.csproj|solutionrelative:logging and monitoring\\models\\t2301esem3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\Logging and Monitoring\\Logging and Monitoring\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Logging and Monitoring\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\Logging and Monitoring\\Logging and Monitoring\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Logging and Monitoring\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:11:21.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILoggerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\Logging and Monitoring\\Logging and Monitoring\\Loggings\\ILoggerManager.cs",
+              "RelativeDocumentMoniker": "Logging and Monitoring\\Loggings\\ILoggerManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\Logging and Monitoring\\Logging and Monitoring\\Loggings\\ILoggerManager.cs",
+              "RelativeToolTip": "Logging and Monitoring\\Loggings\\ILoggerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:15:22.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoggerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\Logging and Monitoring\\Logging and Monitoring\\Loggings\\LoggerManager.cs",
+              "RelativeDocumentMoniker": "Logging and Monitoring\\Loggings\\LoggerManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\Logging and Monitoring\\Logging and Monitoring\\Loggings\\LoggerManager.cs",
+              "RelativeToolTip": "Logging and Monitoring\\Loggings\\LoggerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:12:35.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\Logging and Monitoring\\Logging and Monitoring\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Logging and Monitoring\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\Logging and Monitoring\\Logging and Monitoring\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Logging and Monitoring\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:05:39.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "T2301eSem3Context.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\Logging and Monitoring\\Logging and Monitoring\\Models\\T2301eSem3Context.cs",
+              "RelativeDocumentMoniker": "Logging and Monitoring\\Models\\T2301eSem3Context.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\Logging and Monitoring\\Logging and Monitoring\\Models\\T2301eSem3Context.cs",
+              "RelativeToolTip": "Logging and Monitoring\\Models\\T2301eSem3Context.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:02:45.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\Logging and Monitoring\\Logging and Monitoring\\Program.cs",
+              "RelativeDocumentMoniker": "Logging and Monitoring\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\Logging and Monitoring\\Logging and Monitoring\\Program.cs",
+              "RelativeToolTip": "Logging and Monitoring\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:58:19.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\Logging and Monitoring\\Logging and Monitoring\\appsettings.json",
+              "RelativeDocumentMoniker": "Logging and Monitoring\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\Logging and Monitoring\\Logging and Monitoring\\appsettings.json",
+              "RelativeToolTip": "Logging and Monitoring\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T11:55:25.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

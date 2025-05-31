@@ -1,0 +1,43 @@
+﻿@model IEnumerable<WebAppMobile.Models.Mobile>
+
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Mobile List</h1>
+
+<div class="row">
+	@if (Model != null)
+	{
+		@foreach (var item in Model)
+		{
+			<div class="card mb-3" style="max-width: 540px;">
+				<div class="row g-0">
+					<div class="col-md-4">
+						<a href="@Url.Action("EachMobileDetails", "Home", item.SlNo)">
+							<img src="~/Images/@item.Url" class="img-fluid rounded-start" alt="...">
+						</a>
+					</div>
+					<div class="col-md-8">
+						<div class="card-body">
+							<h5 class="card-title">
+								<a asp-action="Details" asp-route-id="@item.SlNo">
+									@Html.DisplayFor(modelItem => item.MobileName)
+								</a>
+							</h5>
+							<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+							<p class="card-text">
+								<a class="btn btn-primary"
+								   href="@Url.Action("AddToCart", "ShoppingCart", item)" role="button">Add To Cart</a>
+							</p>
+
+						</div>
+					</div>
+				</div>
+			</div>
+
+		}
+	}
+</div>
+

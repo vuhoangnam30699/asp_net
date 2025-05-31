@@ -1,0 +1,5 @@
+﻿
+
+
+// Đây là câu lệnh giúp sinh ra Model , sau đó ta sẽ dùng Model để tạo ra Controller 
+Scaffold-DbContext "Data Source=VuHoangNam;Initial Catalog=T2301E_SEM3;User ID=sa;Password=1234567890;MultipleActiveResultSets=True;Application Name=EntityFramework;Encrypt=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models

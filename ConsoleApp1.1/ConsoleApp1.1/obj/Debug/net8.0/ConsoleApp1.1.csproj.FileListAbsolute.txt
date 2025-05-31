@@ -1,0 +1,14 @@
+C:\Users\Admin\ASP .NET\ConsoleApp1.1\ConsoleApp1.1\obj\Debug\net8.0\ConsoleApp1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\ASP .NET\ConsoleApp1.1\ConsoleApp1.1\obj\Debug\net8.0\ConsoleApp1.1.AssemblyInfoInputs.cache
+C:\Users\Admin\ASP .NET\ConsoleApp1.1\ConsoleApp1.1\obj\Debug\net8.0\ConsoleApp1.1.AssemblyInfo.cs
+C:\Users\Admin\ASP .NET\ConsoleApp1.1\ConsoleApp1.1\obj\Debug\net8.0\ConsoleApp1.1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\ASP .NET\ConsoleApp1.1\ConsoleApp1.1\bin\Debug\net8.0\ConsoleApp1.1.exe
+C:\Users\Admin\ASP .NET\ConsoleApp1.1\ConsoleApp1.1\bin\Debug\net8.0\ConsoleApp1.1.deps.json
+C:\Users\Admin\ASP .NET\ConsoleApp1.1\ConsoleApp1.1\bin\Debug\net8.0\ConsoleApp1.1.runtimeconfig.json
+C:\Users\Admin\ASP .NET\ConsoleApp1.1\ConsoleApp1.1\bin\Debug\net8.0\ConsoleApp1.1.dll
+C:\Users\Admin\ASP .NET\ConsoleApp1.1\ConsoleApp1.1\bin\Debug\net8.0\ConsoleApp1.1.pdb
+C:\Users\Admin\ASP .NET\ConsoleApp1.1\ConsoleApp1.1\obj\Debug\net8.0\ConsoleApp1.1.dll
+C:\Users\Admin\ASP .NET\ConsoleApp1.1\ConsoleApp1.1\obj\Debug\net8.0\refint\ConsoleApp1.1.dll
+C:\Users\Admin\ASP .NET\ConsoleApp1.1\ConsoleApp1.1\obj\Debug\net8.0\ConsoleApp1.1.pdb
+C:\Users\Admin\ASP .NET\ConsoleApp1.1\ConsoleApp1.1\obj\Debug\net8.0\ConsoleApp1.1.genruntimeconfig.cache
+C:\Users\Admin\ASP .NET\ConsoleApp1.1\ConsoleApp1.1\obj\Debug\net8.0\ref\ConsoleApp1.1.dll

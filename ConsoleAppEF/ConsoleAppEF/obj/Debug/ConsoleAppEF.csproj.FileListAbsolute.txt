@@ -1,0 +1,12 @@
+C:\Users\Admin\ASP .NET\ConsoleAppEF\ConsoleAppEF\bin\Debug\ConsoleAppEF.exe.config
+C:\Users\Admin\ASP .NET\ConsoleAppEF\ConsoleAppEF\bin\Debug\ConsoleAppEF.exe
+C:\Users\Admin\ASP .NET\ConsoleAppEF\ConsoleAppEF\bin\Debug\ConsoleAppEF.pdb
+C:\Users\Admin\ASP .NET\ConsoleAppEF\ConsoleAppEF\bin\Debug\EntityFramework.dll
+C:\Users\Admin\ASP .NET\ConsoleAppEF\ConsoleAppEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\ASP .NET\ConsoleAppEF\ConsoleAppEF\bin\Debug\EntityFramework.xml
+C:\Users\Admin\ASP .NET\ConsoleAppEF\ConsoleAppEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\ASP .NET\ConsoleAppEF\ConsoleAppEF\obj\Debug\ConsoleAppEF.csproj.AssemblyReference.cache
+C:\Users\Admin\ASP .NET\ConsoleAppEF\ConsoleAppEF\obj\Debug\ConsoleAppEF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\ASP .NET\ConsoleAppEF\ConsoleAppEF\obj\Debug\ConsoleA.E9F9ACC8.Up2Date
+C:\Users\Admin\ASP .NET\ConsoleAppEF\ConsoleAppEF\obj\Debug\ConsoleAppEF.exe
+C:\Users\Admin\ASP .NET\ConsoleAppEF\ConsoleAppEF\obj\Debug\ConsoleAppEF.pdb

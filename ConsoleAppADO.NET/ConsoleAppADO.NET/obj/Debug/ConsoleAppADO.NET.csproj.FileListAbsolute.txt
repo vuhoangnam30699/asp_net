@@ -1,0 +1,7 @@
+C:\Users\Admin\ASP .NET\ConsoleAppADO.NET\ConsoleAppADO.NET\bin\Debug\ConsoleAppADO.NET.exe.config
+C:\Users\Admin\ASP .NET\ConsoleAppADO.NET\ConsoleAppADO.NET\bin\Debug\ConsoleAppADO.NET.exe
+C:\Users\Admin\ASP .NET\ConsoleAppADO.NET\ConsoleAppADO.NET\bin\Debug\ConsoleAppADO.NET.pdb
+C:\Users\Admin\ASP .NET\ConsoleAppADO.NET\ConsoleAppADO.NET\obj\Debug\ConsoleAppADO.NET.csproj.AssemblyReference.cache
+C:\Users\Admin\ASP .NET\ConsoleAppADO.NET\ConsoleAppADO.NET\obj\Debug\ConsoleAppADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\Admin\ASP .NET\ConsoleAppADO.NET\ConsoleAppADO.NET\obj\Debug\ConsoleAppADO.NET.exe
+C:\Users\Admin\ASP .NET\ConsoleAppADO.NET\ConsoleAppADO.NET\obj\Debug\ConsoleAppADO.NET.pdb

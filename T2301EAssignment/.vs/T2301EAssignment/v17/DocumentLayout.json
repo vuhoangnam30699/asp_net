@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|c:\\users\\admin\\asp .net\\t2301eassignment\\t2301eassignment\\models\\t2301edbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|solutionrelative:t2301eassignment\\models\\t2301edbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|c:\\users\\admin\\asp .net\\t2301eassignment\\t2301eassignment\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|solutionrelative:t2301eassignment\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|c:\\users\\admin\\asp .net\\t2301eassignment\\t2301eassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|solutionrelative:t2301eassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|c:\\users\\admin\\asp .net\\t2301eassignment\\t2301eassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|solutionrelative:t2301eassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|c:\\users\\admin\\asp .net\\t2301eassignment\\t2301eassignment\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|solutionrelative:t2301eassignment\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|c:\\users\\admin\\asp .net\\t2301eassignment\\t2301eassignment\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|solutionrelative:t2301eassignment\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|c:\\users\\admin\\asp .net\\t2301eassignment\\t2301eassignment\\models\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|solutionrelative:t2301eassignment\\models\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|c:\\users\\admin\\asp .net\\t2301eassignment\\t2301eassignment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|solutionrelative:t2301eassignment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|c:\\users\\admin\\asp .net\\t2301eassignment\\t2301eassignment\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|solutionrelative:t2301eassignment\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|c:\\users\\admin\\asp .net\\t2301eassignment\\t2301eassignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|solutionrelative:t2301eassignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|c:\\users\\admin\\asp .net\\t2301eassignment\\t2301eassignment\\migrations\\t2301edbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|solutionrelative:t2301eassignment\\migrations\\t2301edbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|c:\\users\\admin\\asp .net\\t2301eassignment\\t2301eassignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|solutionrelative:t2301eassignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|c:\\users\\admin\\asp .net\\t2301eassignment\\t2301eassignment\\migrations\\20240405115829_departmentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3DA208-6F8B-413F-9E40-89C0E0D3B188}|T2301EAssignment\\T2301EAssignment.csproj|solutionrelative:t2301eassignment\\migrations\\20240405115829_departmentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "T2301EAssignment\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "T2301EAssignment\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:18:51.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "T2301EAssignment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "T2301EAssignment\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:18:47.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "T2301EAssignment\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "T2301EAssignment\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:15:30.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "T2301EAssignment\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Models\\Employee.cs",
+              "RelativeToolTip": "T2301EAssignment\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:45:35.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "T2301EAssignment\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Models\\Department.cs",
+              "RelativeToolTip": "T2301EAssignment\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:42:23.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240405115829_DepartmentEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Migrations\\20240405115829_DepartmentEmployee.cs",
+              "RelativeDocumentMoniker": "T2301EAssignment\\Migrations\\20240405115829_DepartmentEmployee.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Migrations\\20240405115829_DepartmentEmployee.cs",
+              "RelativeToolTip": "T2301EAssignment\\Migrations\\20240405115829_DepartmentEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:58:29.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "T2301EAssignment\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "T2301EAssignment\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:14:53.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "T2301EDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Models\\T2301EDBContext.cs",
+              "RelativeDocumentMoniker": "T2301EAssignment\\Models\\T2301EDBContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Models\\T2301EDBContext.cs",
+              "RelativeToolTip": "T2301EAssignment\\Models\\T2301EDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:51:23.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "T2301EDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Migrations\\T2301EDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "T2301EAssignment\\Migrations\\T2301EDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Migrations\\T2301EDBContextModelSnapshot.cs",
+              "RelativeToolTip": "T2301EAssignment\\Migrations\\T2301EDBContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:59:45.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "T2301EAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Program.cs",
+              "RelativeToolTip": "T2301EAssignment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:24:51.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "T2301EAssignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "T2301EAssignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBwAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T12:06:36.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Models\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "T2301EAssignment\\Models\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\Models\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "T2301EAssignment\\Models\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:16:21.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\appsettings.json",
+              "RelativeDocumentMoniker": "T2301EAssignment\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\T2301EAssignment\\T2301EAssignment\\appsettings.json",
+              "RelativeToolTip": "T2301EAssignment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T11:39:53.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

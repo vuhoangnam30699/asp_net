@@ -1,0 +1,41 @@
+﻿@model IEnumerable<WebAppMobile.Models.DTOs.MobileItem>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>My Order</h1>
+
+<div class="row">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Mobile Name</th>
+                <th scope="col">Price</th>
+                <th scope="col">Image</th>
+                <th scope="col">Quantity</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.mobile.MobileName)</td>
+                    <td>$ @Html.DisplayFor(modelItem => item.mobile.Price)</td>
+                    <td>
+                        <img src="~/Images/@item.mobile.Url" height="50" width="50">
+                    </td>
+                    <td>@Html.DisplayFor(modelItem => item.quantity)</td>
+                    <td>
+                        <form asp-controller="ShoppingCart" asp-action="Remove" method="post">
+                            <input type="hidden" name="slNo" value="@item.SlNo" />
+                            <button type="submit" class="btn btn-danger">Remove</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

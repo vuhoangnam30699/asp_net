@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\ASP .NET\\ShoppingCart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E3B218-B4BA-41F0-864E-28C7F7F9A788}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\admin\\asp .net\\shoppingcart\\shoppingcart\\migrations\\20240321073641_mobilesdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E3B218-B4BA-41F0-864E-28C7F7F9A788}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\migrations\\20240321073641_mobilesdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E3B218-B4BA-41F0-864E-28C7F7F9A788}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\admin\\asp .net\\shoppingcart\\shoppingcart\\utils\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E3B218-B4BA-41F0-864E-28C7F7F9A788}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\utils\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E3B218-B4BA-41F0-864E-28C7F7F9A788}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\admin\\asp .net\\shoppingcart\\shoppingcart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9E3B218-B4BA-41F0-864E-28C7F7F9A788}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E3B218-B4BA-41F0-864E-28C7F7F9A788}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\admin\\asp .net\\shoppingcart\\shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E3B218-B4BA-41F0-864E-28C7F7F9A788}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E3B218-B4BA-41F0-864E-28C7F7F9A788}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\admin\\asp .net\\shoppingcart\\shoppingcart\\views\\mobiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9E3B218-B4BA-41F0-864E-28C7F7F9A788}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\views\\mobiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E3B218-B4BA-41F0-864E-28C7F7F9A788}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\admin\\asp .net\\shoppingcart\\shoppingcart\\shoppingcart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9E3B218-B4BA-41F0-864E-28C7F7F9A788}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\shoppingcart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240321073641_MobilesDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\ShoppingCart\\ShoppingCart\\Migrations\\20240321073641_MobilesDetails.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Migrations\\20240321073641_MobilesDetails.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\ShoppingCart\\ShoppingCart\\Migrations\\20240321073641_MobilesDetails.cs",
+              "RelativeToolTip": "ShoppingCart\\Migrations\\20240321073641_MobilesDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:35:51.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\ShoppingCart\\ShoppingCart\\appsettings.json",
+              "RelativeDocumentMoniker": "ShoppingCart\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\ShoppingCart\\ShoppingCart\\appsettings.json",
+              "RelativeToolTip": "ShoppingCart\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T12:05:16.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\ShoppingCart\\ShoppingCart\\Utils\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Utils\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\ShoppingCart\\ShoppingCart\\Utils\\SessionExtensions.cs",
+              "RelativeToolTip": "ShoppingCart\\Utils\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:24:29.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCart.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
+              "RelativeDocumentMoniker": "ShoppingCart\\ShoppingCart.csproj",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
+              "RelativeToolTip": "ShoppingCart\\ShoppingCart.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T11:23:40.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\ShoppingCart\\ShoppingCart\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\ShoppingCart\\ShoppingCart\\Program.cs",
+              "RelativeToolTip": "ShoppingCart\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:18:30.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\ShoppingCart\\ShoppingCart\\Views\\Mobiles\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoppingCart\\Views\\Mobiles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\ShoppingCart\\ShoppingCart\\Views\\Mobiles\\Index.cshtml",
+              "RelativeToolTip": "ShoppingCart\\Views\\Mobiles\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T11:13:21.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

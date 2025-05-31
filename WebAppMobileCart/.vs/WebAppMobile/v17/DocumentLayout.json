@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|c:\\users\\admin\\asp .net\\webappmobilecart\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|c:\\users\\admin\\asp .net\\webappmobilecart\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|solutionrelative:controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|c:\\users\\admin\\asp .net\\webappmobilecart\\controllers\\mobiledetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|solutionrelative:controllers\\mobiledetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|c:\\users\\admin\\asp .net\\webappmobilecart\\controllers\\mobilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|solutionrelative:controllers\\mobilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|c:\\users\\admin\\asp .net\\webappmobilecart\\models\\dtos\\mobileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|solutionrelative:models\\dtos\\mobileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|c:\\users\\admin\\asp .net\\webappmobilecart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|c:\\users\\admin\\asp .net\\webappmobilecart\\views\\mobiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|solutionrelative:views\\mobiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|c:\\users\\admin\\asp .net\\webappmobilecart\\utils\\cartutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|solutionrelative:utils\\cartutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|c:\\users\\admin\\asp .net\\webappmobilecart\\models\\mobileshoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|solutionrelative:models\\mobileshoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|c:\\users\\admin\\asp .net\\webappmobilecart\\views\\home\\eachmobiledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B298995-8FFC-4272-8E2C-9A20792ACA1C}|WebAppMobile.csproj|solutionrelative:views\\home\\eachmobiledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:52:59.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MobileItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Models\\DTOs\\MobileItem.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\MobileItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Models\\DTOs\\MobileItem.cs",
+              "RelativeToolTip": "Models\\DTOs\\MobileItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:43:50.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T11:34:25.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:15:16.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Utils\\CartUtil.cs",
+              "RelativeDocumentMoniker": "Utils\\CartUtil.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Utils\\CartUtil.cs",
+              "RelativeToolTip": "Utils\\CartUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:14:56.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MobilesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Controllers\\MobilesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MobilesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Controllers\\MobilesController.cs",
+              "RelativeToolTip": "Controllers\\MobilesController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:14:38.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MobileShoppingContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Models\\MobileShoppingContext.cs",
+              "RelativeDocumentMoniker": "Models\\MobileShoppingContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Models\\MobileShoppingContext.cs",
+              "RelativeToolTip": "Models\\MobileShoppingContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:13:49.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EachMobileDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Views\\Home\\EachMobileDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\EachMobileDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Views\\Home\\EachMobileDetails.cshtml",
+              "RelativeToolTip": "Views\\Home\\EachMobileDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T13:04:25.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MobileDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Controllers\\MobileDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MobileDetailsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Controllers\\MobileDetailsController.cs",
+              "RelativeToolTip": "Controllers\\MobileDetailsController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:59:20.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Views\\Mobiles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Mobiles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\ASP .NET\\WebAppMobileCart\\Views\\Mobiles\\Index.cshtml",
+              "RelativeToolTip": "Views\\Mobiles\\Index.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T12:38:10.831Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
